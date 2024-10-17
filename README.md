@@ -65,7 +65,10 @@ Customers mostly choose Standard Class and Second Class shipping, with Same Day 
 California, New York, and Texas are the top-performing states, while North Dakota, West Virginia, and Maine report the lowest sales.  
 
 # Dashboard
-![Screenshot 2024-10-17 224106](https://github.com/user-attachments/assets/40080e48-e2c7-453a-a9ea-8e67fa0e7e10)
+
+
+![{4BBE2D71-6D9D-4B6D-97EC-C48441703F84}](https://github.com/user-attachments/assets/2e07a939-1926-4b5b-800f-b3b1bfb208e0)
+
 
 
 
