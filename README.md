@@ -62,7 +62,11 @@ The West and East regions lead in performance, followed by Central, while the So
 Customers mostly choose Standard Class and Second Class shipping, with Same Day shipping being the least preferred.               
 
 ⭐ Top & Bottom States:            
-California, New York, and Texas are the top-performing states, while North Dakota, West Virginia, and Maine report the lowest sales.          
+California, New York, and Texas are the top-performing states, while North Dakota, West Virginia, and Maine report the lowest sales.  
+
+# Dashboard
+![Screenshot 2024-10-17 224106](https://github.com/user-attachments/assets/40080e48-e2c7-453a-a9ea-8e67fa0e7e10)
+
 
 
 
